@@ -1,2 +1,2 @@
 # SpaceY
-Final Project for course 10
+Final Project for course 10.
